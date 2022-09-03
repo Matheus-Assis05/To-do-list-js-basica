@@ -1,0 +1,16 @@
+
+#navbar{
+    background-color: wheat;
+}
+/*arrumar posicao e tamanho das tarefas*/
+.mae{
+    margin-top: 20px;
+}
+.mae .list{
+    margin-left: 10px;
+
+    font-size: 22px;
+}
+
+
+/*AJUSTANDO A POSIÇÃO DA FOOTER*/.min-vh-100{min-height: 83vh!important;} 
